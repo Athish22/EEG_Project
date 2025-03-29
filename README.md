@@ -1,35 +1,39 @@
-EEG Project
+# EEG Project: Frontal Electrode Analysis
 
-Overview
+## Overview
 
 This project aims to analyze the effect of frontal electrodes on EEG data. While the original study was implemented in MATLAB, we have reproduced the workflow using Python.
 
-Workflow
+## Workflow
 
 To reproduce our results, follow these steps:
 
-Prerequisites
+## Prerequisites
 
-Tested on Python 3.12
+* Tested on Python 3.12
 
-Installation
+## Installation
 
-Install the required dependencies:
+1. Install the required dependencies:
 
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+2. Dataset and Configuration
+
+### Dataset
 
 Download the latest dataset from OpenNeuro:
-Dataset Link
 
-Update the dataset directory paths as needed in your configuration.
+* Dataset Link: [Dataset Link from OpenNeuro]
 
-License
+### Configuration
 
-[Specify License Here]
+Update the dataset directory paths as needed in your configuration files (e.g., in your Python scripts).
 
-References
+## License
 
-[Original Paper Reference]
+[Specify License Here, e.g., MIT, GPL, Apache 2.0]
 
-[Additional References, if any]
+## References
 
+* [Original Paper Reference]
