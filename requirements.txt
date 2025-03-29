@@ -1,0 +1,4 @@
+mne
+onnx
+scipy
+mne_icalabel
