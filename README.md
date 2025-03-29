@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project aims to analyze the effect of frontal electrodes on the EEG data. While the original study was implemented in MATLAB, we have reproduced the workflow using Python. The original study was Visuo-haptic prediction errors: a multimodal dataset (EEG, motion) in BIDS format indexing mismatches in haptic interaction. 
+This project aims to analyze the effect of frontal electrodes on EEG data. While the original study was implemented in MATLAB, we have reproduced the workflow using Python. The original study is titled Visuo-haptic prediction errors: a multimodal dataset (EEG, motion) in BIDS format indexing mismatches in haptic interaction.
+
 ## Pipeline
 ![image](https://github.com/user-attachments/assets/7c2a7b4b-40d9-411e-8e2d-0dd63f2a8cf0)
 
@@ -34,7 +35,7 @@ Update the dataset directory paths as needed in your configuration files (e.g., 
 
 ## License
 
-[CC0]
+This project is licensed under [CC0]
 
 ## References
 
