@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to analyze the effect of frontal electrodes on EEG data. While the original study was implemented in MATLAB, we have reproduced the workflow using Python.
+This project aims to analyze the effect of frontal electrodes on the EEG data. While the original study was implemented in MATLAB, we have reproduced the workflow using Python. The original study was Visuo-haptic prediction errors: a multimodal dataset (EEG, motion) in BIDS format indexing mismatches in haptic interaction. 
 ## Pipeline
 ![image](https://github.com/user-attachments/assets/7c2a7b4b-40d9-411e-8e2d-0dd63f2a8cf0)
 
@@ -26,7 +26,7 @@ To reproduce our results, follow these steps:
 
 Download the latest dataset from OpenNeuro:
 
-* Dataset Link: [Dataset Link from OpenNeuro]
+* Dataset Link: [https://openneuro.org/datasets/ds003846/versions/2.0.2/download]
 
 ### Configuration
 
@@ -34,8 +34,10 @@ Update the dataset directory paths as needed in your configuration files (e.g., 
 
 ## License
 
-[Specify License Here, e.g., MIT, GPL, Apache 2.0]
+[CC0]
 
 ## References
 
 * [Original Paper Reference]
+* Lukas Gehrke and Sezen Akman and Albert Chen and Pedro Lopes and Klaus Gramann (2024). Prediction Error. OpenNeuro.
+* [Dataset] doi: doi:10.18112/openneuro.ds003846.v2.0.2
