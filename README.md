@@ -18,7 +18,7 @@ To reproduce our results, follow these steps:
 
    ```bash
    pip install -r requirements.txt
-2. Dataset and Configuration
+## Dataset and Configuration
 
 ### Dataset
 
