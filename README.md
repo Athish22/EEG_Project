@@ -3,6 +3,8 @@
 ## Overview
 
 This project aims to analyze the effect of frontal electrodes on EEG data. While the original study was implemented in MATLAB, we have reproduced the workflow using Python.
+## Pipeline
+![image](https://github.com/user-attachments/assets/7c2a7b4b-40d9-411e-8e2d-0dd63f2a8cf0)
 
 ## Workflow
 
