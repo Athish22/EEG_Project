@@ -31,7 +31,18 @@ Download the latest dataset from OpenNeuro:
 
 ### Configuration
 
-Update the dataset directory paths as needed in your configuration files (e.g., in your Python scripts).
+Update the dataset directory paths as needed in your configuration files (e.g., in your python notebooks).
+
+## Jupyter notebooks
+
+## EEG
+The eeg.ipynb is our main python notebook which plots the ERP of different sessions of all the subjects.
+
+## SNR
+The snr.ipynb does the SNR for ERP data. It is one of the parts of our sanity checks.
+
+## TFR
+the tfr.ipynb removes the 1/f noise from the signal making it suitable to do the analysis.
 
 ## License
 
